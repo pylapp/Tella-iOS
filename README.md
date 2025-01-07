@@ -1,3 +1,15 @@
+Disclaimer
+==========
+
+( ˶°ㅁ°) !! **This is a fork of [Horizontal-org/Tella-iOS](https://github.com/Horizontal-org/Tella-iOS)**
+
+The aim of this project is to submit evolutions.
+This is not the official repository of the app.
+You should not submit bug reports, issues or pull requests to this fork.
+
+Last constributions from here:
+-  Lokalise: Translations update ([#170](https://github.com/Horizontal-org/Tella-iOS/pull/170))
+
 ![Tella](docs/feature_image.png?raw=true "Tella")
 
 ## Table of Contents
